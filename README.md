@@ -1,7 +1,7 @@
 
 
 ## Hello, world!
-_I'm Junelle!_
+I'm Junelle!
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/558c33ff-ca0e-4052-a05c-6653f55c35ce">
