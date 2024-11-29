@@ -1,7 +1,11 @@
 
 
-## Hello, world!
-I'm Junelle!
+## _Hello, world!_
+**I'm Junelle!**
+- _she/her/hers_
+- Student at LHS
+- Beginner programmer
+- 1st year in FRC Team 8248
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/558c33ff-ca0e-4052-a05c-6653f55c35ce">
