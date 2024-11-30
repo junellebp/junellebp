@@ -1,11 +1,14 @@
 
 
-## _"Hello, world!"_
-**Junelle here! How's life?**
+# --Hello, World!
+👋🏼 Hey, I'm Junelle! How's life?
+
+### About Me
 - _she/her/hers_
-- Student at LHS
-- Beginner programmer
-- 1st year in FRC Team 8248
+- ⚫ Student at LHS 🔴
+- 💻 Beginner programmer; 1st year in FRC Team 8248
+- 📝🎨 Hobbies include writing, art, & reading 📖
+- 🐔 I like chickens :D
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/558c33ff-ca0e-4052-a05c-6653f55c35ce">
