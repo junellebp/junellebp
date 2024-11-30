@@ -1,7 +1,7 @@
 
 
-## _Hello, world!_
-**I'm Junelle!**
+## _"Hello, world!"_
+**Junelle here! How's life?**
 - _she/her/hers_
 - Student at LHS
 - Beginner programmer
