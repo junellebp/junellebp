@@ -1,9 +1,9 @@
 
 
-## --Hello, World!
+### --Hello, World!
 👋🏼 Hey, I'm Junelle! How's life?
 
-### About Me
+#### --About Me
 - _she/her/hers_
 - ⚫ Student at LHS 🔴
 - 💻 Beginner programmer; 1st year in FRC Team 8248
