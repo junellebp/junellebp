@@ -10,6 +10,8 @@
 - 📝🎨 Hobbies include writing, art, & reading 📖
 - 🐔 I like chickens :D
 
+Hope you have a nice day! :)
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/558c33ff-ca0e-4052-a05c-6653f55c35ce">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/17372241-e00b-4359-89e0-d025b59b70cd">
