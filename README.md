@@ -1,6 +1,6 @@
 
 
-### --Hello, World!
+## --Hello, World!
 👋🏼 Hey, I'm Junelle! How's life?
 
 #### --About Me
@@ -8,7 +8,8 @@
 - ⚫ Student at LHS 🔴
 - 💻 Beginner programmer; 1st year in FRC Team 8248
 - 📝🎨 Hobbies include writing, art, & reading 📖
-- 🐔 I like chickens :D
+- 🐔 I like chickens* :D
+###### *(and other birds, of course)
 
 Hope you have a nice day! :)
 
