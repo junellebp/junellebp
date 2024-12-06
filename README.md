@@ -9,7 +9,7 @@
 - 💻 Beginner programmer; 1st year in FRC Team 8248
 - 📝🎨 Hobbies include writing, art, & reading 📖
 - 🐔 I like chickens* :D
-###### *(and other birds, of course)
+###### *(and birds in general, of course)
 
 Hope you have a nice day! :)
 
